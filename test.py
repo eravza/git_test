@@ -1,1 +1,1 @@
-print('On MASTER BRNCH, git mechanism test.')
+print('On MASTER BRNCH, git mechanism test. ravza')
